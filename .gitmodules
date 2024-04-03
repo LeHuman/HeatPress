@@ -1,0 +1,6 @@
+[submodule "HeatPress-Firmware"]
+	path = HeatPress-Firmware
+	url = https://github.com/LeHuman/HeatPress-Firmware
+[submodule "HeatPress-PCB"]
+	path = HeatPress-PCB
+	url = https://github.com/LeHuman/HeatPress-PCB
